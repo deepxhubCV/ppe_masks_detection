@@ -1,0 +1,7 @@
+-r yolov5/requirements.txt
+
+opencv-python
+
+# Tracking
+norfair
+rich
