@@ -1,9 +1,9 @@
 # PPE masks detection
 
-This repo was created with the strong intention to improve and automate the safety processes in healthcare industry. DeepX team provides an object detection and tracking solution of a PPE masks detection using [Yolov5](https://github.com/ultralytics/yolov5) and [Norfair](https://github.com/tryolabs/norfair) . Yolov5m model was trained on a custom dataset gathered by DeepX team, weights can be downloaded [here](https://drive.google.com/file/d/1BnSLhpNU3w2ifZtKuKwAMttbUnZXCU7W/view?usp=sharing).
+This repo was created with the strong intention to improve and automate the safety processes in healthcare industry. DeepX team provides an object detection and tracking solution of a PPE masks detection using [Yolov5](https://github.com/ultralytics/yolov5) and [Norfair](https://github.com/tryolabs/norfair). Yolov5m model was trained on a custom dataset gathered by DeepX team, weights can be downloaded [here](https://drive.google.com/file/d/1BnSLhpNU3w2ifZtKuKwAMttbUnZXCU7W/view?usp=sharing).
  
 ## Demo
-![alt text](demo/masks.gif)
+![alt text](docs/masks.gif)
 
 ## Installation
 ```
@@ -19,4 +19,18 @@ python track_masks.py --source $VIDEO_PATH --output_path $OUTPUT_PATH --weights 
 
 ## Contact 
 For business or professional support requests please visit http://deepxhub.com/contact-us.
+
+<div align="center">
+ </a>
+  <img width="3%" />
+  <a href="https://www.linkedin.com/company/deepxhub">
+    <img src="docs/linkedin.png" width="3%"/>
+ </a>
+  <img width="3%" />
+  <a href="http://deepxhub.com/">
+    <img src="docs/website.png" width="3%"/>
+  </a>
+  <img width="3%" />
+  <a href="https://www.youtube.com/channel/UC0iG-g0gtlOcazSc71VkyuA/videos">
+    <img src="docs/youtube.png" width="3%"/>
 
