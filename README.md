@@ -24,13 +24,13 @@ For business or professional support requests please visit http://deepxhub.com/c
  </a>
   <img width="3%" />
   <a href="https://www.linkedin.com/company/deepxhub">
-    <img src="docs/linkedin.png" width="3%"/>
+    <img src="docs/linkedin.png" width="5%"/>
  </a>
   <img width="3%" />
   <a href="http://deepxhub.com/">
-    <img src="docs/website.png" width="3%"/>
+    <img src="docs/website.png" width="5%"/>
   </a>
   <img width="3%" />
   <a href="https://www.youtube.com/channel/UC0iG-g0gtlOcazSc71VkyuA/videos">
-    <img src="docs/youtube.png" width="3%"/>
+    <img src="docs/youtube.png" width="5%"/>
 
