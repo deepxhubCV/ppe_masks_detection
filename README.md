@@ -19,7 +19,7 @@ python track_masks.py --source $VIDEO_PATH --output_path $OUTPUT_PATH --weights 
 
 ## Copyright
 
-All licenses in this repository are copyrighted by their respective authors. Everything else is released under CC0. See [LICENSE](https://github.com/deepxhubCV/ppe_masks_detection/LICENSE) for details. 
+All licenses in this repository are copyrighted by their respective authors. Everything else is released under CC0. See [LICENSE](LICENSE) for details. 
 
 
 ## Contact 
