@@ -17,6 +17,11 @@ pip install -r requirements.txt
 python track_masks.py --source $VIDEO_PATH --output_path $OUTPUT_PATH --weights $WEIGHTS_PATH
 ```
 
+## Copyright
+
+All licenses in this repository are copyrighted by their respective authors. Everything else is released under CC0. See [LICENSE](https://github.com/deepxhubCV/ppe_masks_detection/LICENSE) for details. 
+
+
 ## Contact 
 For business or professional support requests please visit http://deepxhub.com/contact-us.
 
